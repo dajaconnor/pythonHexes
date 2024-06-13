@@ -1,0 +1,41 @@
+Wholepic (327, 617)
+Aces (12, 24) (96, 50)
+Twos (12, 53) (96, 79)
+Threes (12, 82) (96, 98)
+Fours (12, 101) (96, 117)
+Fives (12, 120) (96, 136)
+Sixes (12, 139) (96, 155)
+3of kind (12, 317) (96, 343)
+4of kind (12, 346) (96, 372)
+Fullhouse (12, 375) (96, 401)
+smstraight (12, 404) (111, 430)
+lgstraight (12, 433) (111, 459)
+yahtzee (12, 462) (96, 488)
+Chance (12, 491) (96, 517)
+	
+
+
+Die 1 (259, 4) (322, 67)
+Die 2 (259, 105) (322, 168)
+Die 3 (259, 206) (322, 269)
+Die 4 (259, 307) (322, 370)
+Die 5 (259, 408) (322, 471)
+Keep 1 (263, 75) (311, 89)
+Keep 2 (263, 176) (311, 190)
+Keep 3 (263, 277) (311, 291)
+Keep 4 (263, 378) (311, 392)
+Keep 5 (263, 479) (311, 493)
+
+Roll! (259, 509) (322, 572)
+
+Font x = 167, font size = 8, y from top of button + 9
+
+Bonusyahtzee clear button 164, 552
+
+uppersection (168, 201)
+bonus (168, 230)
+totaluppersection (168, 259)
+
+Total lower section (164, 552)
+Total score (164, 581)
+
